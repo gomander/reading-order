@@ -2690,20 +2690,21 @@
 						},
 						{
 							"id": "dsp",
-							"title": "Dragonsteel Prime (2024)",
+							"title": "Dragonsteel Prime",
 							"title2": "<a target='_blank' href='https://coppermind.net/wiki/Dragonsteel_Prime'>Dragonsteel Prime</a>",
 							"world": "<a target='_blank' href='https://coppermind.net/wiki/Yolen'>Yolen</a>",
 							"system": "Yolish system",
-							"publication": "<a target='_blank' href='https://wob.coppermind.net/events/488/#e15395'>With the Words of Radiance leatherbound Kickstarter, postponed to 2024.</a>",
+							"publication": "March 2024",
 							"sorting": {
 								"order": 8.90,
-								"publication": 2024.04
+								"publication": 2024.03
 							},
 							"categories": [
 								"dragonsteel",
 								"novel",
 								"apocryphal",
-								"noncanon"
+								"noncanon",
+								"published"
 							]
 						},
 						{
