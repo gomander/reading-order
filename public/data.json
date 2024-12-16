@@ -1635,6 +1635,27 @@
 							]
 						},
 						{
+							"id": "sa4.5",
+							"title": "Horneater (2026)",
+							"title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>Horneater</a>",
+							"series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
+							"world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
+							"system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
+							"padding": 12,
+							"chronology": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>Fills in what happened with Rock during and after the events of Rhythm of War.</a>",
+							"publication": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2023/'>December 2026 (planned).</a>",
+							"sorting": {
+								"publication": 2026.12,
+								"chronology": 7.045
+							},
+							"categories": [
+								"stormlight",
+								"novella",
+								"unpublished",
+								"future-plan"
+							]
+						},
+						{
 							"id": "sa5",
 							"title": "Wind and Truth",
 							"title2": "<a target='_blank' href='https://coppermind.net/wiki/Wind_and_Truth'>Wind and Truth</a>",
@@ -1664,27 +1685,6 @@
 								"novel",
 								"phase2",
 								"published"
-							]
-						},
-						{
-							"id": "sa5.5",
-							"title": "Horneater (2026)",
-							"title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>Horneater</a>",
-							"series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-							"world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-							"system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-							"padding": 12,
-							"chronology": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>Fills in what happened with Rock during and after the events of Rhythm of War.</a>",
-							"publication": "<a target='_blank' href='https://wob.coppermind.net/events/514/#e16080'>December 2026 (planned).</a>",
-							"sorting": {
-								"publication": 2026.12,
-								"chronology": 7.045
-							},
-							"categories": [
-								"stormlight",
-								"novella",
-								"unpublished",
-								"future-plan"
 							]
 						},
 						{
