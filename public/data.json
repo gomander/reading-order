@@ -1838,17 +1838,17 @@
 					"children": [
 						{
 							"id": "wsn",
-							"title": "White Sand (2025)",
+							"title": "White Sand",
 							"title2": "<a target='_blank' href='https://coppermind.net/wiki/White_Sand'>White Sand novel</a>",
 							"series": "<a target='_blank' href='https://coppermind.net/wiki/White_Sand'>White Sand</a>",
 							"world": "<a target='_blank' href='https://coppermind.net/wiki/Taldain'>Taldain</a>",
 							"system": "<a target='_blank' href='https://coppermind.net/wiki/Taldain_system'>Taldain system</a>",
 							"au": "Excerpt included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
-							"publication": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2023/'>December 2025 (planned)</a>",
+							"publication": "<a target='_blank' href='https://wob.coppermind.net/events/529/#e16675'>2026 or later</a>",
 							"chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3878'>White Sand occurs prior to Elantris.</a>",
 							"sorting": {
 								"order": 1.51,
-								"publication": 2025.12,
+								"publication": 2026.12,
 								"chronology": 2.101
 							},
 							"categories": [
